@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiqian Li"
-description              : "Do not go gentle into that good night"
+description              : 
 repository               : "Naiq-zyx/academic-homepage"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhiqian Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : "University of Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
